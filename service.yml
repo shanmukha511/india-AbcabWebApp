@@ -10,4 +10,4 @@ spec:
     targetPort: 4000
   type: NodePort
   selector:
-app: example-pod
+app: pod1-55cb8d747-n4hsp
